@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Lucas Souza da Rosa
+# Olá! Eu sou o Lucas Souza da Rosa
 
 🎯 **Analista de Qualidade de Software** | 💻 Automatizador de Testes | ☕ Apaixonado por Java
 
